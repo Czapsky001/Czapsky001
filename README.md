@@ -16,7 +16,7 @@ https://www.linkedin.com/in/szymon-czap-b877772aa/
 
 ### Tech Stack
 
-# Backend:
+## Backend:
 
 C# |
 .NET |
@@ -24,17 +24,17 @@ ASP.NET |
 Entity Framework |
 MSSQL |
 
-# Frontend:
+## Frontend:
 
 React |
 JavaScript
 
-# Database:
+## #Database:
 
 SQL |
 MSSQL
 
-# Other Tools:
+## Other Tools:
 
 Git
 
