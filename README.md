@@ -15,24 +15,29 @@ Passionate Junior Fullstack Developer. I'm on a journey to gain my initial hands
 https://www.linkedin.com/in/szymon-czap-b877772aa/
 
 ### Tech Stack
-Languages and Tools I used:
 
-Back-end:
+Backend:
 
-C#,
-.NET,
-ASP.NET,
-Entity Framework,
-MSSQL,
+C#
 
-Front-end:
+.NET
 
-React,
+ASP.NET
+
+Entity Framework
+
+MSSQL
+
+Frontend:
+
+React
+
 JavaScript
 
 Database:
 
-SQL,
+SQL
+
 MSSQL
 
 Other Tools:
