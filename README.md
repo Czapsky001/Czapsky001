@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Szymon Czap
+## Hi there 👋 I'm Szymon Czap
 
 Hello there, I'm Szymon Czap, a Junior Fullstack Developer based in Zgorzelec.
 
-### About Me
+## About Me
 Passionate Junior Fullstack Developer. I'm on a journey to gain my initial hands-on experience in the dynamic world of development.
 
 🔭 Currently immersed in my first professional stint as a Junior Dev.
@@ -14,9 +14,9 @@ Passionate Junior Fullstack Developer. I'm on a journey to gain my initial hands
 📫 Connect with me on LinkedIn!
 https://www.linkedin.com/in/szymon-czap-b877772aa/
 
-### Tech Stack
+## Tech Stack
 
-## Backend:
+### Backend:
 
 C# |
 .NET |
@@ -24,20 +24,20 @@ ASP.NET |
 Entity Framework |
 MSSQL |
 
-## Frontend:
+### Frontend:
 
 React |
 JavaScript
 
-## #Database:
+### #Database:
 
 SQL |
 MSSQL
 
-## Other Tools:
+### Other Tools:
 
 Git
 
-### My Journey
+## My Journey
 Excitedly building my GitHub streak and constantly evolving in the vast world of Fullstack development.
 Feel free to explore my repositories, and let's connect to discuss exciting opportunities or collaborative projects. Happy coding! 🚀
