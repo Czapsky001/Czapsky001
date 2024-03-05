@@ -16,6 +16,7 @@ https://www.linkedin.com/in/szymon-czap-b877772aa/
 
 ### Tech Stack
 Languages and Tools I used:
+
 Back-end:
 C#
 .NET
