@@ -2,7 +2,8 @@
 
 Junior Fullstack Developer
 
-I am future Fullstack developer.![image](https://github.com/Czapsky001/Czapsky001/assets/127615744/68c1de9c-2609-4429-aa74-151e5739fcec)
+I am future Fullstack developer.:![image](https://github.com/Czapsky001/Czapsky001/assets/127615744/f67df8a4-84f5-4eb4-ba59-d204ee8e28af):
+
 
 
 - 🔭 I’m currently working on ...
