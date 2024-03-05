@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Szymon Czap
 
-<!--
-**Czapsky001/Czapsky001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Fullstack Developer
 
-Here are some ideas to get you started:
+I am future Fullstack developer.![image](https://github.com/Czapsky001/Czapsky001/assets/127615744/68c1de9c-2609-4429-aa74-151e5739fcec)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
