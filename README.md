@@ -18,26 +18,20 @@ https://www.linkedin.com/in/szymon-czap-b877772aa/
 
 Backend:
 
-C#
-
-.NET
-
-ASP.NET
-
-Entity Framework
-
-MSSQL
+C#|
+.NET|
+ASP.NET|
+Entity Framework|
+MSSQL|
 
 Frontend:
 
-React
-
+React|
 JavaScript
 
 Database:
 
-SQL
-
+SQL|
 MSSQL
 
 Other Tools:
