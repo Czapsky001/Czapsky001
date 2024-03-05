@@ -18,6 +18,7 @@ https://www.linkedin.com/in/szymon-czap-b877772aa/
 Languages and Tools I used:
 
 Back-end:
+
 C#
 .NET
 ASP.NET
@@ -25,14 +26,17 @@ Entity Framework
 MSSQL
 
 Front-end:
+
 React
 JavaScript
 
 Database:
+
 SQL
 MSSQL
 
 Other Tools:
+
 Git
 
 ### My Journey
