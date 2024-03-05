@@ -19,20 +19,20 @@ Languages and Tools I used:
 
 Back-end:
 
-C#
-.NET
-ASP.NET
-Entity Framework
-MSSQL
+C#,
+.NET,
+ASP.NET,
+Entity Framework,
+MSSQL,
 
 Front-end:
 
-React
+React,
 JavaScript
 
 Database:
 
-SQL
+SQL,
 MSSQL
 
 Other Tools:
