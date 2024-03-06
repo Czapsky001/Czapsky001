@@ -9,7 +9,7 @@ Passionate Junior Fullstack Developer. I'm on a journey to gain my initial hands
 
 🌱 Venturing into the realm of Technical Content Writing.
 
-⚡ When not coding, you'll find me tackling challenges on codewars and delving into tech books, especially those focused on algorithms and data structures.
+⚡ When I'm not coding, I like watching football matches, I love playing and meeting friends. I often do tasks on Codewars in my free time
 
 📫 Connect with me on LinkedIn!
 https://www.linkedin.com/in/szymon-czap-b877772aa/
